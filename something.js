@@ -1,3 +1,3 @@
-var someVariable = "Hello!!"
+var someVariable = "Hi everybody!!"
 
 alert(someVariable)
